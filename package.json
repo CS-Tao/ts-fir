@@ -1,0 +1,9 @@
+{
+  "name": "ts-fir",
+  "description": "TypeScript types likes FIR",
+  "author": "CS-Tao",
+  "main": "./src/index.ts",
+  "files": [
+    "src/**/*"
+  ]
+}
