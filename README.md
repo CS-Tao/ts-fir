@@ -1,3 +1,5 @@
+[![tsc](https://github.com/CS-Tao/ts-fir/actions/workflows/tsc.yml/badge.svg)](https://github.com/CS-Tao/ts-fir/actions/workflows/tsc.yml)
+
 # TS-FIR
 
 > 使用 TS 类型推导实现的五子棋
@@ -8,10 +10,10 @@
 
 ## 效果
 
-|初始棋盘|黑色第一步 (二, 三)|
+|初始棋盘|黑棋第一步 (二, 三)|
 | :---: | :---: |
 | ![0.png](./img/0.png)|![B1.png](./img/B1.png)|
-|白色第一步 (三, 三)|黑色第二步 (三, 四)|
+|白棋第一步 (三, 三)|黑棋第二步 (三, 四)|
 |![W1.png](./img/W1.png)|![B2.png](./img/B2.png)|
 
 ```ts
