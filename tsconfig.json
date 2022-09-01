@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "strictNullChecks": true,
+    "noEmit": true
+  },
+  "include": ["src/**/*", "demo-five.ts", "demo-three.ts", "tes.ts"]
+}

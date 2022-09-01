@@ -12,6 +12,6 @@
     "typescript": "^4.8.2"
   },
   "scripts": {
-    "test": "tsc --noEmit src/index demo"
+    "test": "yarn tsc"
   }
 }
